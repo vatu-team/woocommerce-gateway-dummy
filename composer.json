@@ -1,0 +1,18 @@
+{
+	"name": "somewherewarm/woocommerce-gateway-dummy",
+	"type": "wordpress-plugin",
+	"license": "GPL-3.0",
+	"description": "A Dummy Payments gateway for your WooCommerce website.",
+	"homepage": "https://somewherewarm.com/",
+	"authors": [
+ 		{
+			"name": "Emmanouil Psychogyiopoulos",
+			"homepage": "https://somewherewarm.com/"
+		}
+	],
+	"keywords": [
+		"woocommerce",
+		"payment",
+		"gateway",
+	]
+}
